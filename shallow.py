@@ -24,7 +24,7 @@ def timecourse(lnp0, d, max_lam=10, num_steps=100):
     df['d_kl_div'] = lam * df['variance_distortion']
     return df
 
-def example_timecourses(T=2200, scale=5, prior=.1, distractor=.7, farthest=10):
+def example_timecourses(T=2200, scale=5, prior=.1, distractor=.7, farthest=3, cutoff=515):
     """ Nice-looking example timecourses """
     max_lam = 15
     num_steps = 1000
@@ -106,7 +106,7 @@ def example_timecourses(T=2200, scale=5, prior=.1, distractor=.7, farthest=10):
     axs[1,2].plot(t, df[df['scenario'] == 'biphasic'][2], label="Far Distractor")
     axs[1,2].legend()
 
-    df['region'] = df['t'].map(lambda t: 'P600' if (t/max_lam)>.19 else 'N400')
+    df['region'] = df['t'].map(lambda t: 'P600' if (t/max_lam)>(cutoff/T) else 'N400')
     r = df[['region', 'scenario', 'eeg']].groupby(['region', 'scenario']).sum().reset_index()
     categories = ["N400", "P600"]
 
