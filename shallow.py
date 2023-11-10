@@ -15,12 +15,11 @@ def timecourse(lnp0, d, max_lam=10, num_steps=100):
     lam = np.linspace(0, max_lam, num_steps) # shape L
     unnormalized = lnp0[None, :] - lam[:, None]*d[None, :]  # shape LK
     lnZ = scipy.special.logsumexp(unnormalized, -1) # shape L
-    lnp = unnormalized - lnZ[:, None] # shape LK
-    p = np.exp(lnp) # shape LK
+    p = np.exp(unnormalized - lnZ[:, None]) # shape LK
     df = pd.DataFrame(p) # dataframe containing probabilities for each interpretation at each time
     df['t'] = lam
     df['expected_distortion'] = p @ d
-    df['variance_distortion'] = p @ d**2 - (p @ d)**2
+    df['variance_distortion'] = p @ d**2 - df['expected_distortion']**2
     df['kl_div'] = -lnZ - lam*df['expected_distortion']
     df['d_kl_div'] = lam * df['variance_distortion']
     return df
@@ -47,7 +46,7 @@ def example_timecourses(T=2200, scale=5, prior=.1, distractor=.7, farthest=10):
     df = pd.concat([df_n400, df_p600, df_biphasic])
     df['eeg'] = -df['d_kl_div']*np.sin(2*np.pi*df['t']/scale)
 
-    fig, axs = plt.subplots(2, 3, figsize=(10, 10))
+    fig, axs = plt.subplots(3, 3, figsize=(10, 10))
 
     
 
@@ -107,8 +106,23 @@ def example_timecourses(T=2200, scale=5, prior=.1, distractor=.7, farthest=10):
     axs[1,2].plot(t, df[df['scenario'] == 'biphasic'][2], label="Far Distractor")
     axs[1,2].legend()
 
+    df['region'] = df['t'].map(lambda t: 'P600' if (t/max_lam)>.1 else 'N400')
+    r = df[['region', 'scenario', 'eeg']].groupby(['region', 'scenario']).sum().reset_index()
+    categories = ["N400", "P600"]
+
+    axs[2,0].set_ylabel("Sum Voltage")
+    axs[2,0].set_xlabel("Time Window")
+    axs[2,0].bar(categories, r[r['scenario'] == 'n400']['eeg'])
+
+    axs[2,1].set_ylabel("Sum Voltage")
+    axs[2,1].set_xlabel("Time Window")
+    axs[2,1].bar(categories, r[r['scenario'] == 'p600']['eeg'])
+
+    axs[2,2].set_ylabel("Sum Voltage")
+    axs[2,2].set_xlabel("Time Window")
+    axs[2,2].bar(categories, r[r['scenario'] == 'biphasic']['eeg'])        
+
     plt.tight_layout(pad=2.0)
-    
 
     return df
 
