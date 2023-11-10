@@ -13,7 +13,7 @@ def timecourse(lnp0, d, max_lam=10, num_steps=100):
     Index 0 is assumed to be the "true" interpretation (lowest distortion).
     """
     lam = np.linspace(0, max_lam, num_steps) # shape L
-    unnormalized = lnp0[None, :] - lam[:, None]*d[None, :]  # shape LK
+    unnormalized = lnp0 - lam[:, None]*d[None, :]  # shape LK
     lnZ = scipy.special.logsumexp(unnormalized, -1) # shape L
     p = np.exp(unnormalized - lnZ[:, None]) # shape LK
     df = pd.DataFrame(p) # dataframe containing probabilities for each interpretation at each time
@@ -30,7 +30,7 @@ def example_timecourses(T=2200, scale=5, prior=.1, distractor=.7, farthest=10):
     num_steps = 1000
     t = np.linspace(0, T, num_steps)
 
-    lnp0 = np.log([prior, (1-prior)*.5, (1-prior)*.5])
+    lnp0 = np.log([prior, (1-prior)*.95, (1-prior)*.05])
     d = np.array([0, farthest, farthest])
     df_n400 = timecourse(lnp0, d, max_lam=max_lam, num_steps=num_steps)
     df_n400['scenario'] = 'n400'
@@ -39,7 +39,7 @@ def example_timecourses(T=2200, scale=5, prior=.1, distractor=.7, farthest=10):
     df_p600 = timecourse(lnp0, d, max_lam=max_lam, num_steps=num_steps)
     df_p600['scenario'] = 'p600'
 
-    lnp0 = np.log([prior, (1-prior)*.15, (1-prior)*(1-.15)])
+    lnp0 = np.log([prior, (1-prior)*.2, (1-prior)*.8])
     df_biphasic = timecourse(lnp0, d, max_lam=max_lam, num_steps=num_steps)
     df_biphasic['scenario'] = 'biphasic'
 
@@ -106,7 +106,7 @@ def example_timecourses(T=2200, scale=5, prior=.1, distractor=.7, farthest=10):
     axs[1,2].plot(t, df[df['scenario'] == 'biphasic'][2], label="Far Distractor")
     axs[1,2].legend()
 
-    df['region'] = df['t'].map(lambda t: 'P600' if (t/max_lam)>.1 else 'N400')
+    df['region'] = df['t'].map(lambda t: 'P600' if (t/max_lam)>.19 else 'N400')
     r = df[['region', 'scenario', 'eeg']].groupby(['region', 'scenario']).sum().reset_index()
     categories = ["N400", "P600"]
 
