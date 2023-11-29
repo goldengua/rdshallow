@@ -10,7 +10,6 @@ def timecourse(lnp0, d, max_lam=10, num_steps=100):
     * lnp is an array of shape K giving prior log-probabilities for the alternatives.
     * d is an array of shape K giving distortions for each of the K interpretations.
     
-    Index 0 is assumed to be the "true" interpretation (lowest distortion).
     """
     lam = np.linspace(0, max_lam, num_steps) # shape L
     unnormalized = lnp0 - lam[:, None]*d[None, :]  # shape LK
@@ -20,9 +19,11 @@ def timecourse(lnp0, d, max_lam=10, num_steps=100):
     df['t'] = lam
     df['expected_distortion'] = p @ d
     df['variance_distortion'] = p @ d**2 - df['expected_distortion']**2
+    df['free_energy'] = -1/lam * lnZ
     df['kl_div'] = -lnZ - lam*df['expected_distortion']
     df['d_kl_div'] = lam * df['variance_distortion']
     return df
+
 
 def example_timecourses(T=2200, scale=5, prior=.1, distractor=.7, farthest=3, cutoff=515):
     """ Nice-looking example timecourses """
@@ -126,7 +127,7 @@ def example_timecourses(T=2200, scale=5, prior=.1, distractor=.7, farthest=3, cu
 
     return df
 
-                
+
 
     
     
