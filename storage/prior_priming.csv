@@ -1,0 +1,641 @@
+,sentence,prior
+0,The student is going to the library to borrow a book.,0.03938238080400958
+1,"Living alone is too expensive, so the students will share a flat.",0.012809725126491506
+2,"The family enjoyed the sunny day, but there will be rain.",0.014814983059079858
+3,Jack studied medicine in a university and works as a doctor.,0.014104788079054653
+4,"Amelia got a driving licence, and will buy her own car.",0.01773675190797036
+5,"Oliver doesn't have a watch, so he doesn't know the time.",0.054265970821745224
+6,Rachel will go to the cinema to watch a new film.,0.04140699589488612
+7,Paul is trying to stand on one leg.,0.033967748805793986
+8,"The gambler kept losing, so he doesn't have any money.",0.025828987588744134
+9,Harry intends to propose to Emily and give her the ring.,0.013420988421473865
+10,John nervously asked the attractive girl out on a date.,0.011215200970840838
+11,"As a lifetime vegetarian, Olivia doesn't miss eating meat.",0.010109643982434005
+12,"Dylan got lost today, so he will use a map.",0.004441035393447562
+13,"The comedian was funny, despite a bad joke.",0.005880555157996796
+14,Jacob found he misspelled the word.,0.00878400565798185
+15,"Oscar opened the postbox, and found a letter.",0.006472739219831737
+16,"After struggling with the question, Jessica got the answer.",0.01742260393174523
+17,"At the airport, James checked in for his flight.",0.027330787666031683
+18,The lottery gave Emily a car as a prize.,0.004512935814137952
+19,"Sophie couldn't recall the recent event, and blamed her bad memory.",0.012806646987309602
+20,"The shoes were small, so Lily asked for the largest size.",0.009032480505796374
+21,"To view the D image, people wore special glasses.",0.0020678964575207375
+22,"At the football match, Bob scored a goal.",0.013200389709329042
+23,Grace put too much dressing on her salad.,0.005443265920466982
+24,Chloe couldn't afford the necklace because of its high price.,0.014792366212848499
+25,The family went to the sea to catch some fish.,0.02835715931079962
+26,"Noah missed the final bus, and needed to take a taxi.",0.012952690402332816
+27,The workers reported the difficult problem to their boss.,0.006641371923825649
+28,Freya had a serious car accident and is afraid of driving.,0.013558654481461577
+29,The man was convicted for murder and is in prison.,0.038671047358652504
+30,"Beth loved cooking, and has become a world famous chef.",0.014815844932948326
+31,Kyle asked the dentist to pull out the painful tooth.,0.00947082533762639
+32,"Having high blood pressure, George reduced his intake of salt.",0.01668808951620138
+33,Children were excited to see the first snow this winter.,0.024215606396081196
+34,"To see the new-born panda, Lucy will go to the zoo.",0.01815226794913081
+35,The country girl was overwhelmed to see streets full of people.,0.005579498784951723
+36,Daisy is nine months pregnant and will have her first baby.,0.027449410534684828
+37,Students at the train station are rushing to buy a ticket.,0.02773074201372093
+38,"Feeling stressed at his workplace, Max relaxed at home.",0.007494958782624062
+39,"Isabella dyed her hair, but she doesn't like the colour.",0.020466359121500667
+40,"For parking illegally, William was charged a fine.",0.003709518273446743
+41,Jim will go swimming and get a suntan at the beach.,0.02125055551706501
+42,The house is haunted by ghosts.,0.027199795293567253
+43,The ju ice.,4.323453156029014e-05
+44,"The restaurant is always busy, so Leo will book a table.",0.008742553454656861
+45,The baby is hungry and needs to drink some milk.,0.025345248959052585
+46,"Before sending the letter, Daniel licked a stamp.",0.004204417141361164
+47,The waiter got a generous tip because of his good service.,0.011742147714799561
+48,"For their mother's birthday, the children will hold a party.",0.021978195314830716
+49,"Only one cake is left, so Lilly doesn't have a choice.",0.01994724444001567
+50,The men are watching football and drinking beer in the pub.,0.018574085885273095
+51,The plane crash was avoided by the experienced pilot.,0.01135639862965922
+52,The bus driver charged Rosie a regular fare.,0.003984543806868873
+53,Henry was seriously injured but the doctor saved his life.,0.03653604864835241
+54,Joseph used a lighter to make a fire.,0.017732709663403033
+55,The famous dancer performed on the stage.,0.005952762171297695
+56,The girls are going to have cocktails and dance in a club.,0.01764375217330133
+57,The supporters wished the team good luck.,0.01290922658064044
+58,"The cricket player wants his own glove, ball and bat.",0.004896975187060673
+59,Hannah bought a calendar and hung it on the wall.,0.01777215663932397
+60,The man with the history of self-harm cut his wrist.,0.013093960431783324
+61,Susan felt tears coming as she sliced the onion.,0.0036976436658330398
+62,The woman was hit by a truck when crossing the road.,0.029293111330118724
+63,Tyler knows many cocktail recipes because he works in a bar.,0.009941923004312521
+64,"Kate didn't like coffee, so she ordered a cup of tea.",0.06205600953073951
+65,Sam plays guitar in a popular band.,0.008083917190322873
+66,"As the trousers were loose, Tony tightened up his belt.",0.00987060526961742
+67,Meg will go to the park to walk her dog.,0.022563727537836756
+68,The terrorist shot and killed five people using a gun.,0.017659576074635464
+69,The mole was digging a hole.,0.006265988251999828
+70,"The horse went outside the course, and didn't win the race.",0.011788841556410025
+71,"Emma loves a bargain, and everything she bought was on sale.",0.015929832766510773
+72,The king's throne was taken by his first-born son.,0.032744955881246186
+73,The camp leader taught children how to pitch a tent.,0.01248702437658679
+74,He enjoys hiking in the woods because of the fresh air.,0.02588814229532146
+75,All the colleagues have savings accounts at the same bank.,0.007399954175786713
+76,Ben went to the gym to swim in the pool.,0.03803899042854723
+77,Adam keeps different breeds of cows in his farm.,0.00932096654774692
+78,"For relaxation, Matilda soaked in a hot bath.",0.006894411621023702
+79,Lewis lost his memory because of the damage to his brain.,0.03272631805743296
+80,"After shuffling, the croupier asked the guest to select one card.",0.014205919883789815
+81,Nobody knows the time as this room has no clock.,0.006892350659327699
+82,Ryan refused to invest to avoid taking a risk.,0.010747885455454931
+83,The client immediately signed the contract because it was a good deal.,0.02464967691204654
+84,"By closely examining a painting, one can see all the detail.",0.01701769511914662
+85,"Toby used to walk to school, but now he takes a bus.",0.026903374622937317
+86,"In the class, Bella whispered in her friend's ear.",0.013814772972460143
+87,Two dogs injured each other when they had a fight.,0.016785157817898983
+88,"To make meringue, she separated the whites from five eggs.",0.008189350622191928
+89,"To make two groups, the lecturer split the class in half.",0.007696793498596832
+90,Seeing buds on trees heralds the arrival of spring.,0.012361034666956396
+91,The store was so busy that the clerk needed help.,0.016805018950682434
+92,"The solution didn't work, and Harley lost all hope.",0.015313223778487997
+93,"To remember to buy everything she wanted, Gracie made a list.",0.006270226464535397
+94,The computer pointer doesn't move though Tommy is moving the mouse.,0.003950481124166337
+95,Katie looks much younger than her actual age.,0.025643484934165153
+96,"After the meal, Matthew asked a waiter to bring the bill.",0.020390005038050964
+97,"Hearing the noise outside the classroom, the lecturer closed the door.",0.018756071345325104
+98,Elizabeth doesn't believe Matt since he has told lies.,0.006351405384147691
+99,The thief stole the bike easily as it had no lock.,0.008550051846541201
+100,Anna brings a sandwich and a salad for her lunch.,0.018369459878653478
+101,People saw the first spaceship that landed on the moon.,0.02345172017229764
+102,Children made a wish when they saw a shooting star.,0.011116844436037726
+103,Maya got a cold and has a runny nose.,0.02102162022292021
+104,The country has no war and people live in peace.,0.022316909762179454
+105,"To make the garden more green, Amy is growing various plants.",0.009419342903700419
+106,"To prevent spreading her cold, Jane is wearing a mask.",0.0055938760620322285
+107,The leaking rain was due to a hole in the roof.,0.01998828630170672
+108,The fisherman was trying to catch fish in a net.,0.02986608785670342
+109,The plant lacks sunlight because it's placed in the shade.,0.012942466446817439
+110,Sophia cannot find a suitable lotion because of her delicate skin.,0.013053762966922974
+111,The driver was stopped as he exceeded the specified speed.,0.012641382587626154
+112,Conner went down the stairs and sat on the bottom step.,0.025616646812981998
+113,"With a high salary, he needs to pay more tax.",0.02934414607965647
+114,"Tilly's sister did the cleaning today, so tomorrow it's her turn.",0.009665669112939654
+115,There was a recycling campaign to reduce the amount of waste.,0.030405822869381774
+116,Jamie bravely stopped the robbery without feeling any fear.,0.010163425949583674
+117,The attendees can't miss the meeting without a good excuse.,0.010560890594137574
+118,Frank will double-check the notification in case there is any change.,0.025484225762722957
+119,"Finishing his study abroad, David will return to his own country.",0.0134118080994216
+120,The businessman left his laptop on his desk.,0.008893208152699068
+121,"Rose couldn't eat noodles using chopsticks, so used a fork.",0.014570040209725021
+122,The bird cannot fly because it injured its wing.,0.013210231580391568
+123,"Eliza worried about her breath, so she took an extra mint.",0.007203893738369683
+124,Changing majors required students to fill out a twenty-page long form.,0.011698868300204746
+125,Violet left the dirty plates and cups in the sink.,0.0035012175859333605
+126,"To increase her hair volume, the woman wears a wig.",0.016171057271938048
+127,Eleanor covered the old ugly floor with a large rug.,0.0022400484115359227
+128,The room with bad ventilation got a ceiling fan.,0.0033602745617586443
+129,"For a removal, Cameron packed the TV into its original box.",0.004027379439877352
+130,Selling drugs is against the law.,0.018722665511929255
+131,"The waiter wasn't polite, so he didn't receive a good tip.",0.022021021668525757
+132,"For Christmas, the children are hanging bells on the tree.",0.010430190485368975
+133,"To expand their market, the project team made a rough plan.",0.008734827962409078
+134,"Because of the storm, the ocean has big waves.",0.015519122343994721
+135,The sales staff forgot to attach the price tag.,0.006050366370162784
+136,"To make a pancake easily, Julia used a pancake mix.",0.0108933654969953
+137,The new variety show appointed the entertainer as a host.,0.004766871570914879
+138,Nigel's son should inherit the estate according to his will.,0.008499488365940425
+139,It's expected to snow as it will get very cold.,0.01414306199380347
+140,The explorer in the desert hopes to ride the camel.,0.006741102809124465
+141,"For the parade, the king's servants will refurbish the entire castle.",0.011095920199950376
+142,Making traditional Indian curry requires using several types of spice.,0.00564474864334468
+143,"To finish the cake, Scarlet spread the whipped cream.",0.0050172718655745645
+144,Students learned how to convert kilometres to miles.,0.00967682459596952
+145,"To compress the air, the machine applies high pressure.",0.008813059242010167
+146,"Before exchanging money, Rebecca asks the exchange rate.",0.0033495402851745903
+147,Lydia cannot eat anymore as she is so full.,0.005167897704903165
+148,Dogs have a good sense of smell.,0.033831554038380035
+149,Laura will eat the ice cream quickly before it melts.,0.013995824571991148
+150,"After the main course, Sara checked the dessert menu.",0.006226740703927416
+151,Andrew was late because his train had a delay.,0.011490560132076192
+152,The bomb expert pinpointed a switch to make the bomb explode.,0.00840297424112444
+153,Immigration exposed Lisa to a different culture.,0.0030000112158360946
+154,The bridge was washed away by the flood.,0.023402701996822088
+155,The story was far from logical and didn't make any sense.,0.03276291691884202
+156,"Having no ink or paper, the office workers couldn't print.",0.00976094169705389
+157,"In the tennis lesson, Lauren hit the ball with her racket.",0.006526996625651532
+158,"Joe has grown his moustache, but will give it a shave.",0.02220999051782849
+159,It's so itchy that Chris can't help scratching the mosquito bite.,0.006845950580705278
+160,The student is going to the library to borrow a hook.,0.013089883938940665
+161,"Living alone is too expensive, so the students will share a flag.",0.0070322357412490365
+162,"The family enjoyed the sunny day, but there will be pain.",0.01269378881129396
+163,Jack studied medicine in a university and works as a factor.,0.003840492098671256
+164,"Amelia got a driving licence, and will buy her own jar.",0.006246883207025752
+165,"Oliver doesn't have a watch, so he doesn't know the lime.",0.024465380850376958
+166,Rachel will go to the cinema to watch a new firm.,0.01282556113128396
+167,Paul is trying to stand on one lag.,0.006744137893612483
+168,"The gambler kept losing, so he doesn't have any honey.",0.01138222574183842
+169,Harry intends to propose to Emily and give her the wing.,0.008234165369526467
+170,John nervously asked the attractive girl out on a gate.,0.002834776234704276
+171,"As a lifetime vegetarian, Olivia doesn't miss eating mean.",0.003107013973697736
+172,"Dylan got lost today, so he will use a cap.",0.0028671674852104624
+173,"The comedian was funny, despite a bad coke.",0.006092663961281956
+174,Jacob found he misspelled the lord.,0.002136906588381895
+175,"Oscar opened the postbox, and found a litter.",0.003977315253342253
+176,"After struggling with the question, Jessica got the dancer.",0.0036856049598636836
+177,"At the airport, James checked in for his sight.",0.011517647934710813
+178,The lottery gave Emily a car as a price.,0.002021882457939314
+179,"Sophie couldn't recall the recent event, and blamed her bad melody.",0.0054734942799107705
+180,"The shoes were small, so Lily asked for the largest sign.",0.004384683169861958
+181,"To view the D image, people wore special classes.",0.0010435921200365181
+182,"At the football match, Bob scored a coal.",0.0029676881253177245
+183,Grace put too much dressing on her ballad.,0.0044526170771631195
+184,Chloe couldn't afford the necklace because of its high pride.,0.006736379284585812
+185,The family went to the sea to catch some wish.,0.00529647341559093
+186,"Noah missed the final bus, and needed to take a tax.",0.004841029287079242
+187,The workers reported the difficult problem to their bass.,0.001071163070952137
+188,Freya had a serious car accident and is afraid of thriving.,0.005986636316036541
+189,The man was convicted for murder and is in poison.,0.006866183815632175
+190,"Beth loved cooking, and has become a world famous shelf.",0.0036180279315527514
+191,Kyle asked the dentist to pull out the painful booth.,0.004117879804348943
+192,"Having high blood pressure, George reduced his intake of malt.",0.009283051573836324
+193,Children were excited to see the first snow this printer.,0.0036519517984274687
+194,"To see the new-born panda, Lucy will go to the loo.",0.014717394219733579
+195,The country girl was overwhelmed to see streets full of purple.,0.0027922620416732918
+196,Daisy is nine months pregnant and will have her first bay.,0.00725870184390875
+197,Students at the train station are rushing to buy a thicket.,0.010777055417628842
+198,"Feeling stressed at his workplace, Max relaxed at dome.",0.0015216973837405743
+199,"Isabella dyed her hair, but she doesn't like the cutter.",0.011530418516182816
+200,"For parking illegally, William was charged a line.",0.0013616499020567266
+201,Jim will go swimming and get a suntan at the peach.,0.009305858333285372
+202,The house is haunted by boasts.,0.003185003438392875
+203,"The juice isn't cold enough, so Alice is adding some dice.",0.004397753259135104
+204,"The restaurant is always busy, so Leo will book a label.",0.003401473553636987
+205,The baby is hungry and needs to drink some silk.,0.007088150685019305
+206,"Before sending the letter, Daniel licked a stump.",0.004182515566003371
+207,The waiter got a generous tip because of his good surface.,0.004202911789350559
+208,"For their mother's birthday, the children will hold a pasty.",0.011563520710861041
+209,"Only one cake is left, so Lilly doesn't have a voice.",0.011050421647815868
+210,The men are watching football and drinking beer in the rub.,0.006388918771017554
+211,The plane crash was avoided by the experienced pallet.,0.004802769786889591
+212,The bus driver charged Rosie a regular care.,0.0010387020215627543
+213,Henry was seriously injured but the doctor saved his knife.,0.010045478285716431
+214,Joseph used a lighter to make a hire.,0.005946977286167198
+215,The famous dancer performed on the state.,0.0014744296482517984
+216,The girls are going to have cocktails and dance in a crab.,0.007488578559331871
+217,The supporters wished the team good duck.,0.0009927715553378063
+218,"The cricket player wants his own glove, ball and rat.",0.0021165042246444024
+219,Hannah bought a calendar and hung it on the mall.,0.006201308642102017
+220,The man with the history of self-harm cut his list.,0.00784816128719926
+221,Susan felt tears coming as she sliced the union.,0.0021517583035985167
+222,The woman was hit by a truck when crossing the load.,0.011464558268387517
+223,Tyler knows many cocktail recipes because he works in a war.,0.00294910819687044
+224,"Kate didn't like coffee, so she ordered a cup of team.",0.01720842013847166
+225,Sam plays guitar in a popular sand.,0.0011155735922972804
+226,"As the trousers were loose, Tony tightened up his beat.",0.004881117840890991
+227,Meg will go to the park to walk her fog.,0.003786023936630625
+228,The terrorist shot and killed five people using a gum.,0.003565111450378345
+229,The mole was digging a pole.,0.0018914654402063212
+230,"The horse went outside the course, and didn't win the lace.",0.004286775587663216
+231,"Emma loves a bargain, and everything she bought was on safe.",0.006122918136318242
+232,The king's throne was taken by his first-born ton.,0.00891273212772127
+233,The camp leader taught children how to pitch a cent.,0.003939698291006839
+234,He enjoys hiking in the woods because of the fresh hair.,0.011186354531861741
+235,All the colleagues have savings accounts at the same back.,0.003599680420097264
+236,Ben went to the gym to swim in the tool.,0.009263979680715101
+237,Adam keeps different breeds of cows in his harm.,0.002140834194756348
+238,"For relaxation, Matilda soaked in a hot path.",0.002240941553177752
+239,Lewis lost his memory because of the damage to his grain.,0.010946236936424424
+240,"After shuffling, the croupier asked the guest to select one cart.",0.00918208282276073
+241,Nobody knows the time as this room has no clerk.,0.0036389129918725552
+242,Ryan refused to invest to avoid taking a disc.,0.0024824094960006426
+243,The client immediately signed the contract because it was a good meal.,0.011252574877813382
+244,"By closely examining a painting, one can see all the retail.",0.00588143009204813
+245,"Toby used to walk to school, but now he takes a bug.",0.01249814000236289
+246,"In the class, Bella whispered in her friend's rear.",0.00464180686958793
+247,Two dogs injured each other when they had a light.,0.008153903894151021
+248,"To make meringue, she separated the whites from five pegs.",0.007074134622493042
+249,"To make two groups, the lecturer split the class in calf.",0.0018297568718146386
+250,Seeing buds on trees heralds the arrival of sprint.,0.0034330460648612166
+251,The store was so busy that the clerk needed heap.,0.003295196118584503
+252,"The solution didn't work, and Harley lost all hose.",0.004939910252848243
+253,"To remember to buy everything she wanted, Gracie made a lift.",0.003051287929790455
+254,The computer pointer doesn't move though Tommy is moving the mouth.,0.002206706095782912
+255,Katie looks much younger than her actual ace.,0.00459888974299493
+256,"After the meal, Matthew asked a waiter to bring the pill.",0.012726668140513044
+257,"Hearing the noise outside the classroom, the lecturer closed the donor.",0.0041219444107576005
+258,Elizabeth doesn't believe Matt since he has told pies.,0.0031554984187344773
+259,The thief stole the bike easily as it had no look.,0.005099943440990646
+260,Anna brings a sandwich and a salad for her punch.,0.007563048319342219
+261,People saw the first spaceship that landed on the mood.,0.004356201389220445
+262,Children made a wish when they saw a shooting scar.,0.007393023776952853
+263,Maya got a cold and has a runny pose.,0.004454496482037661
+264,The country has no war and people live in peak.,0.003210837940452085
+265,"To make the garden more green, Amy is growing various planets.",0.004112905191773273
+266,"To prevent spreading her cold, Jane is wearing a task.",0.0016437505822886945
+267,The leaking rain was due to a hole in the root.,0.008883955712910613
+268,The fisherman was trying to catch fish in a jet.,0.016147848527999564
+269,The plant lacks sunlight because it's placed in the shape.,0.0036841290114219124
+270,Sophia cannot find a suitable lotion because of her delicate spin.,0.007331067382956084
+271,The driver was stopped as he exceeded the specified speech.,0.0025254714173968754
+272,Conner went down the stairs and sat on the bottom stem.,0.012781969252791112
+273,"With a high salary, he needs to pay more wax.",0.00985965891950607
+274,"Tilly's sister did the cleaning today, so tomorrow it's her turf.",0.004020751823209861
+275,There was a recycling campaign to reduce the amount of paste.,0.013168553137232277
+276,Jamie bravely stopped the robbery without feeling any year.,0.0021114600687400574
+277,The attendees can't miss the meeting without a good excise.,0.002163164113338127
+278,Frank will double-check the notification in case there is any range.,0.011960878471814436
+279,"Finishing his study abroad, David will return to his own counter.",0.005133535194904907
+280,The businessman left his laptop on his dusk.,0.0008302387840863337
+281,"Rose couldn't eat noodles using chopsticks, so used a fort.",0.005564662245104782
+282,The bird cannot fly because it injured its ring.,0.0053033524405566475
+283,"Eliza worried about her breath, so she took an extra hint.",0.008997527909423722
+284,Changing majors required students to fill out a twenty-page long norm.,0.00367517006078311
+285,Violet left the dirty plates and cups in the link.,0.0014268675665357457
+286,"To increase her hair volume, the woman wears a pig.",0.006430056182748411
+287,Eleanor covered the old ugly floor with a large rum.,0.0011712554297157215
+288,The room with bad ventilation got a ceiling fat.,0.0008661638844818847
+289,"For a removal, Cameron packed the TV into its original boa.",0.0017010944509350593
+290,Selling drugs is against the saw.,0.0023926285145497773
+291,"The waiter wasn't polite, so he didn't receive a good lip.",0.012192895457772808
+292,"For Christmas, the children are hanging bells on the treat.",0.004582668868559375
+293,"To expand their market, the project team made a rough plank.",0.0037900935011986074
+294,"Because of the storm, the ocean has big caves.",0.008663444203476416
+295,The sales staff forgot to attach the price tug.,0.001284221847540306
+296,"To make a pancake easily, Julia used a pancake fix.",0.0059429547325109055
+297,The new variety show appointed the entertainer as a post.,0.0024230124426528866
+298,Nigel's son should inherit the estate according to his pill.,0.0025533420428861114
+299,It's expected to snow as it will get very old.,0.007179867692841007
+300,The explorer in the desert hopes to ride the caramel.,0.0022708811373613213
+301,"For the parade, the king's servants will refurbish the entire cattle.",0.0054852229631251696
+302,Making traditional Indian curry requires using several types of space.,0.0032426287812669387
+303,"To finish the cake, Scarlet spread the whipped dream.",0.000958427372707928
+304,Students learned how to convert kilometres to piles.,0.0028546551652412033
+305,"To compress the air, the machine applies high pleasure.",0.0016441801615555704
+306,"Before exchanging money, Rebecca asks the exchange fate.",0.001021489721394313
+307,Lydia cannot eat anymore as she is so dull.,0.003331078377359952
+308,Dogs have a good sense of shell.,0.006067817126647248
+309,Laura will eat the ice cream quickly before it meets.,0.004519079464101003
+310,"After the main course, Sara checked the dessert venue.",0.0025063378640267997
+311,Andrew was late because his train had a decay.,0.005317058708302706
+312,The bomb expert pinpointed a switch to make the bomb explore.,0.002693770554863171
+313,Immigration exposed Lisa to a different vulture.,0.0016033350350848495
+314,The bridge was washed away by the blood.,0.013989532660049344
+315,The story was far from logical and didn't make any fence.,0.0067985627835801385
+316,"Having no ink or paper, the office workers couldn't point.",0.0072178468054020515
+317,"In the tennis lesson, Lauren hit the ball with her rocket.",0.004249634748744229
+318,"Joe has grown his moustache, but will give it a share.",0.014832244211541471
+319,It's so itchy that Chris can't help scratching the mosquito bike.,0.003019978722457471
+320,The student is going to the library to borrow a page.,0.02135233675892239
+321,"Living alone is too expensive, so the students will share a wall.",0.009599934967280089
+322,"The family enjoyed the sunny day, but there will be sky.",0.008422277342449042
+323,Jack studied medicine in a university and works as a patient.,0.006996374147148754
+324,"Amelia got a driving licence, and will buy her own tyre.",0.008951400810208862
+325,"Oliver doesn't have a watch, so he doesn't know the rest.",0.0400682339034366
+326,Rachel will go to the cinema to watch a new camera.,0.020657731700250353
+327,Paul is trying to stand on one hip.,0.016726424976194667
+328,"The gambler kept losing, so he doesn't have any wallet.",0.014228243893227155
+329,Harry intends to propose to Emily and give her the finger.,0.013109872763112596
+330,John nervously asked the attractive girl out on a cancel.,0.00154453854390102
+331,"As a lifetime vegetarian, Olivia doesn't miss eating flour.",0.004637459603084409
+332,"Dylan got lost today, so he will use a globe.",0.003158784799268711
+333,"The comedian was funny, despite a bad laugh.",0.005440193654890872
+334,Jacob found he misspelled the usage.,0.0034466864162390116
+335,"Oscar opened the postbox, and found a heading.",0.004288360053177881
+336,"After struggling with the question, Jessica got the inquiry.",0.0065208060573496455
+337,"At the airport, James checked in for his rocket.",0.00884678478471953
+338,The lottery gave Emily a car as a medal.,0.002143324423775432
+339,"Sophie couldn't recall the recent event, and blamed her bad storage.",0.006927695572979894
+340,"The shoes were small, so Lily asked for the largest height.",0.00556691546979972
+341,"To view the D image, people wore special eyes.",0.0013015351645321437
+342,"At the football match, Bob scored a team.",0.004410807623902801
+343,Grace put too much dressing on her refrigerator.,0.004010545888265743
+344,Chloe couldn't afford the necklace because of its high seller.,0.0046087113466867944
+345,The family went to the sea to catch some pond.,0.005976559325859727
+346,"Noah missed the final bus, and needed to take a fare.",0.009005069222907757
+347,The workers reported the difficult problem to their job.,0.0029482786293892694
+348,Freya had a serious car accident and is afraid of licences.,0.005316135913285335
+349,The man was convicted for murder and is in crime.,0.010271849744794379
+350,"Beth loved cooking, and has become a world famous buffet.",0.004507692443791883
+351,Kyle asked the dentist to pull out the painful brush.,0.006693428932575984
+352,"Having high blood pressure, George reduced his intake of sea.",0.007032648200795215
+353,Children were excited to see the first snow this summer.,0.02320837657284077
+354,"To see the new-born panda, Lucy will go to the lion.",0.010688655737320692
+355,The country girl was overwhelmed to see streets full of customs.,0.0023055140977740183
+356,Daisy is nine months pregnant and will have her first nappy.,0.020998627979153535
+357,Students at the train station are rushing to buy a platform.,0.012609829906703568
+358,"Feeling stressed at his workplace, Max relaxed at laundry.",0.0027231089261207857
+359,"Isabella dyed her hair, but she doesn't like the paint.",0.016456171410592427
+360,"For parking illegally, William was charged a court.",0.001117038471218098
+361,Jim will go swimming and get a suntan at the coconut.,0.009092052705394819
+362,The house is haunted by halloween.,0.010532797905983165
+363,"The juice isn't cold enough, so Alice is adding some cube.",0.0040933244008007266
+364,"The restaurant is always busy, so Leo will book a chair.",0.005158633062937912
+365,The baby is hungry and needs to drink some cow.,0.006902283126510321
+366,"Before sending the letter, Daniel licked a payment.",0.0025039965328540782
+367,The waiter got a generous tip because of his good complaints.,0.0049257338374031415
+368,"For their mother's birthday, the children will hold a guest.",0.010954058649250302
+369,"Only one cake is left, so Lilly doesn't have a future.",0.0126008319039055
+370,The men are watching football and drinking beer in the owner.,0.005706735521028269
+371,The plane crash was avoided by the experienced flight.,0.006129259945648341
+372,The bus driver charged Rosie a regular cash.,0.00201930992571302
+373,Henry was seriously injured but the doctor saved his death.,0.013967543225252491
+374,Joseph used a lighter to make a chimney.,0.01921632893672012
+375,The famous dancer performed on the actor.,0.001629551780851265
+376,The girls are going to have cocktails and dance in a sport.,0.00960248961111409
+377,The supporters wished the team good yell.,0.0007984777622565071
+378,"The cricket player wants his own glove, ball and hit.",0.002944808226945264
+379,Hannah bought a calendar and hung it on the floor.,0.01266310159528239
+380,The man with the history of self-harm cut his grip.,0.0072337651604568965
+381,Susan felt tears coming as she sliced the flavour.,0.0019228436536814783
+382,The woman was hit by a truck when crossing the cyclist.,0.009358920348203523
+383,Tyler knows many cocktail recipes because he works in a pint.,0.0030514261548303997
+384,"Kate didn't like coffee, so she ordered a cup of mug.",0.02928688224490316
+385,Sam plays guitar in a popular music.,0.00256873275237355
+386,"As the trousers were loose, Tony tightened up his helmet.",0.0066117520923399935
+387,Meg will go to the park to walk her tail.,0.010364420244093227
+388,The terrorist shot and killed five people using a grip.,0.007347543745224473
+389,The mole was digging a drill.,0.0017861147732437035
+390,"The horse went outside the course, and didn't win the bike.",0.0064517884764332505
+391,"Emma loves a bargain, and everything she bought was on refunds.",0.0055936440058327345
+392,The king's throne was taken by his first-born father.,0.020196937352315786
+393,The camp leader taught children how to pitch a cave.,0.006879177709783282
+394,He enjoys hiking in the woods because of the fresh dust.,0.009868191042499495
+395,All the colleagues have savings accounts at the same receipt.,0.003112021163715659
+396,Ben went to the gym to swim in the sink.,0.0243517387550955
+397,Adam keeps different breeds of cows in his yields.,0.003234885365324758
+398,"For relaxation, Matilda soaked in a hot soap.",0.003604448471932364
+399,Lewis lost his memory because of the damage to his surgeries.,0.01362695046494164
+400,"After shuffling, the croupier asked the guest to select one swap.",0.008972019359596633
+401,Nobody knows the time as this room has no alarm.,0.0054739797550144255
+402,Ryan refused to invest to avoid taking a benefit.,0.005479304534741277
+403,The client immediately signed the contract because it was a good trust.,0.013099481014434368
+404,"By closely examining a painting, one can see all the paragraphs.",0.008728332837212808
+405,"Toby used to walk to school, but now he takes a seat.",0.017702852684104067
+406,"In the class, Bella whispered in her friend's sound.",0.003977510600904763
+407,Two dogs injured each other when they had a troop.,0.004048128904366037
+408,"To make meringue, she separated the whites from five nests.",0.005128089148637373
+409,"To make two groups, the lecturer split the class in dozen.",0.0032376090477199077
+410,Seeing buds on trees heralds the arrival of winter.,0.011126697918043453
+411,The store was so busy that the clerk needed lifeguards.,0.009295409738484453
+412,"The solution didn't work, and Harley lost all regret.",0.006448820382721058
+413,"To remember to buy everything she wanted, Gracie made a volume.",0.002827018496124686
+414,The computer pointer doesn't move though Tommy is moving the click.,0.0022280714657868434
+415,Katie looks much younger than her actual birth.,0.010218565943679042
+416,"After the meal, Matthew asked a waiter to bring the tip.",0.017168488787534512
+417,"Hearing the noise outside the classroom, the lecturer closed the knob.",0.009153095780327998
+418,Elizabeth doesn't believe Matt since he has told truth.,0.005018571118730757
+419,The thief stole the bike easily as it had no door.,0.006170696552970725
+420,Anna brings a sandwich and a salad for her kitchen.,0.01315107701742592
+421,People saw the first spaceship that landed on the orbit.,0.00851747374920487
+422,Children made a wish when they saw a shooting galaxy.,0.004880212527994594
+423,Maya got a cold and has a runny chin.,0.008649818327094154
+424,The country has no war and people live in treaty.,0.004777452847418052
+425,"To make the garden more green, Amy is growing various sunlight.",0.0027173692117776027
+426,"To prevent spreading her cold, Jane is wearing a face.",0.0027350264037087155
+427,The leaking rain was due to a hole in the floor.,0.015744312160476122
+428,The fisherman was trying to catch fish in a gross.,0.010265254257643176
+429,The plant lacks sunlight because it's placed in the grass.,0.008195804201705802
+430,Sophia cannot find a suitable lotion because of her delicate sweat.,0.007655315894601866
+431,The driver was stopped as he exceeded the specified jet.,0.0021686988673953883
+432,Conner went down the stairs and sat on the bottom process.,0.009353727228863455
+433,"With a high salary, he needs to pay more income.",0.02133020328546045
+434,"Tilly's sister did the cleaning today, so tomorrow it's her gear.",0.004636214800929367
+435,There was a recycling campaign to reduce the amount of toilets.,0.01571504523629786
+436,Jamie bravely stopped the robbery without feeling any escape.,0.005048643272286047
+437,The attendees can't miss the meeting without a good doubt.,0.005669963419999741
+438,Frank will double-check the notification in case there is any same.,0.012029807897502957
+439,"Finishing his study abroad, David will return to his own import.",0.005367862794919999
+440,The businessman left his laptop on his receptionist.,0.004691093190896979
+441,"Rose couldn't eat noodles using chopsticks, so used a cup.",0.009232528224825799
+442,The bird cannot fly because it injured its glide.,0.003999602922726468
+443,"Eliza worried about her breath, so she took an extra herb.",0.007787034427282053
+444,Changing majors required students to fill out a twenty-page long example.,0.004912755205359128
+445,Violet left the dirty plates and cups in the towel.,0.0018852281401332057
+446,"To increase her hair volume, the woman wears a comb.",0.012327624417384607
+447,Eleanor covered the old ugly floor with a large tie.,0.0015223200775046214
+448,The room with bad ventilation got a ceiling air.,0.0011804462029408756
+449,"For a removal, Cameron packed the TV into its original lid.",0.0021253625374798276
+450,Selling drugs is against the jury.,0.0028554297963416693
+451,"The waiter wasn't polite, so he didn't receive a good thumb.",0.011196990385405664
+452,"For Christmas, the children are hanging bells on the squirrel.",0.004291434563455828
+453,"To expand their market, the project team made a rough future.",0.004202929826329887
+454,"Because of the storm, the ocean has big surfers.",0.013795038065454124
+455,The sales staff forgot to attach the price name.,0.002325618298368306
+456,"To make a pancake easily, Julia used a pancake digestion.",0.004093453224873386
+457,The new variety show appointed the entertainer as a meeting.,0.001888588698205645
+458,Nigel's son should inherit the estate according to his fact.,0.0035440668860354293
+459,It's expected to snow as it will get very hot.,0.012296420973095109
+460,The explorer in the desert hopes to ride the oasis.,0.007243426275343558
+461,"For the parade, the king's servants will refurbish the entire lords.",0.003830272475325288
+462,Making traditional Indian curry requires using several types of orient.,0.0012641954845054814
+463,"To finish the cake, Scarlet spread the whipped pizzas.",0.0022541170627172016
+464,Students learned how to convert kilometres to riders.,0.0036931820034639237
+465,"To compress the air, the machine applies high relief.",0.0028904280609198304
+466,"Before exchanging money, Rebecca asks the exchange pace.",0.0011910747966883896
+467,Lydia cannot eat anymore as she is so half.,0.0017312121539679397
+468,Dogs have a good sense of nose.,0.011156885344286743
+469,Laura will eat the ice cream quickly before it boils.,0.008351619740904318
+470,"After the main course, Sara checked the dessert chef.",0.0023277861793067314
+471,Andrew was late because his train had a time.,0.006605115777615322
+472,The bomb expert pinpointed a switch to make the bomb pour.,0.0036586291465194793
+473,Immigration exposed Lisa to a different sociology.,0.0010512125473166943
+474,The bridge was washed away by the soil.,0.012037583040550899
+475,The story was far from logical and didn't make any taste.,0.008451158003950982
+476,"Having no ink or paper, the office workers couldn't erase.",0.00668589762662633
+477,"In the tennis lesson, Lauren hit the ball with her game.",0.005361293774022548
+478,"Joe has grown his moustache, but will give it a hair.",0.01620672890885455
+479,It's so itchy that Chris can't help scratching the mosquito chew.,0.0034457645314737184
+480,The student is going to the library to borrow a sofa.,0.01483945290665956
+481,"Living alone is too expensive, so the students will share a bell.",0.007638881482349616
+482,"The family enjoyed the sunny day, but there will be loss.",0.011098438976587138
+483,Jack studied medicine in a university and works as a tenant.,0.005415943866779539
+484,"Amelia got a driving licence, and will buy her own rat.",0.007130209314529342
+485,"Oliver doesn't have a watch, so he doesn't know the bean.",0.021869884827474574
+486,Rachel will go to the cinema to watch a new bird.,0.016915619699317538
+487,Paul is trying to stand on one kid.,0.008164225509258969
+488,"The gambler kept losing, so he doesn't have any candle.",0.009214610205928706
+489,Harry intends to propose to Emily and give her the memo.,0.009802308801124447
+490,John nervously asked the attractive girl out on a pin.,0.0025239208342689675
+491,"As a lifetime vegetarian, Olivia doesn't miss eating soil.",0.004209237490546244
+492,"Dylan got lost today, so he will use a job.",0.003372274761419374
+493,"The comedian was funny, despite a bad beef.",0.0031894822759565957
+494,Jacob found he misspelled the oven.,0.0022873008517606424
+495,"Oscar opened the postbox, and found a birth.",0.0031097278574719668
+496,"After struggling with the question, Jessica got the pension.",0.004686275174117937
+497,"At the airport, James checked in for his machine.",0.010175262653187953
+498,The lottery gave Emily a car as a child.,0.0038045936855180835
+499,"Sophie couldn't recall the recent event, and blamed her bad eraser.",0.007483648862933383
+500,"The shoes were small, so Lily asked for the largest flip.",0.00374327886328907
+501,"To view the D image, people wore special markets.",0.0007156170644509368
+502,"At the football match, Bob scored a bear.",0.004901944378642781
+503,Grace put too much dressing on her movie.,0.0034728148370631326
+504,Chloe couldn't afford the necklace because of its high radio.,0.0048525780286198614
+505,The family went to the sea to catch some echo.,0.006543054102056242
+506,"Noah missed the final bus, and needed to take a seed.",0.006018361026691324
+507,The workers re port.,7.566514324750952e-05
+508,Freya had a serious car accident and is afraid of finding.,0.0059038806628764874
+509,The man was convicted for murder and is in image.,0.0056287588507331985
+510,"Beth loved cooking, and has become a world famous aunt.",0.0065341339500561875
+511,Kyle asked the dentist to pull out the painful grade.,0.005600756764955456
+512,"Having high blood pressure, George reduced his intake of bond.",0.006354816487750111
+513,Children were excited to see the first snow this effect.,0.006230096737721937
+514,"To see the new-born panda, Lucy will go to the end.",0.010934619118103601
+515,The country girl was overwhelmed to see streets full of length.,0.0016791177208035925
+516,Daisy is nine months pregnant and will have her first agent.,0.01342056605280551
+517,Students at the train station are rushing to buy a major.,0.011318663694634046
+518,"Feeling stressed at his workplace, Max relaxed at beer.",0.002274485522341851
+519,"Isabella dyed her hair, but she doesn't like the grape.",0.010529639271586285
+520,"For parking illegally, William was charged a rest.",0.0009093895158472663
+521,Jim will go swimming and get a suntan at the drama.,0.009382334035403665
+522,The house is haunted by eagles.,0.012782274002318732
+523,"The juice isn't cold enough, so Alice is adding some wine.",0.006505947820196351
+524,"The restaurant is always busy, so Leo will book a field.",0.002928040921222664
+525,The baby is hungry and needs to drink some debt.,0.0059507301534893154
+526,"Before sending the letter, Daniel licked a juice.",0.004476253183400721
+527,The waiter got a generous tip because of his good million.,0.005159720421465864
+528,"For their mother's birthday, the children will hold a scene.",0.01407448782296016
+529,"Only one cake is left, so Lilly doesn't have a minute.",0.011492061510688987
+530,The men are watching football and drinking beer in the let.,0.0052838531218395955
+531,The plane crash was avoided by the experienced mail.,0.0019387889056702733
+532,The bus driver charged Rosie a regular twin.,0.0010120076112326091
+533,Henry was seriously injured but the doctor saved his corn.,0.006688222144166006
+534,Joseph used a lighter to make a statue.,0.007991024519659997
+535,The famous dancer performed on the cloud.,0.0016358797423430104
+536,The girls are going to have cocktails and dance in a mist.,0.010071978244479921
+537,The supporters wished the team good view.,0.0014773213654556987
+538,"The cricket player wants his own glove, ball and sneeze.",0.004848308467968937
+539,Hannah bought a calendar and hung it on the fruit.,0.005003157329162948
+540,The man with the history of self-harm cut his sky.,0.005432945421964587
+541,Susan felt tears coming as she sliced the error.,0.0019634104724541696
+542,The woman was hit by a truck when crossing the math.,0.006553239367760743
+543,Tyler knows many cocktail recipes because he works in a joy.,0.002205230297526766
+544,"Kate didn't like coffee, so she ordered a cup of myth.",0.01971558527719173
+545,Sam plays guitar in a popular hero.,0.002052565277640084
+546,"As the trousers were loose, Tony tightened up his tube.",0.004860143396909804
+547,Meg will go to the park to walk her tyre.,0.005861674902468298
+548,The terrorist shot and killed five people using a rib.,0.00563192417802975
+549,The mole was digging a mass.,0.0012175895091636627
+550,"The horse went outside the course, and didn't win the snap.",0.006476326659885503
+551,"Emma loves a bargain, and everything she bought was on noon.",0.005707108335351639
+552,The king's throne was taken by his first-born fox.,0.009775255090166335
+553,The camp leader taught children how to pitch a flaw.,0.003704766687665879
+554,He enjoys hiking in the woods because of the fresh ray.,0.005024370412650657
+555,All the colleagues have savings accounts at the same lake.,0.0028949785304158314
+556,Ben went to the gym to swim in the lump.,0.013044286465568091
+557,Adam keeps different breeds of cows in his navy.,0.002986859346866135
+558,"For relaxation, Matilda soaked in a hot loaf.",0.0017429142796664804
+559,Lewis lost his memory because of the damage to his nation.,0.01167182735719907
+560,"After shuffling, the croupier asked the guest to select one roll.",0.010996585540843902
+561,Nobody knows the time as this room has no scarf.,0.002848495558609538
+562,Ryan refused to invest to avoid taking a door.,0.0029328911396472967
+563,The client immediately signed the contract because it was a good flower.,0.007469730468832149
+564,"By closely examining a painting, one can see all the syrup.",0.005907288025269912
+565,Toby use.,0.0001223493844815084
+566,"In the class, Bella whispered in her friend's kin.",0.0020544149492719203
+567,Two dogs injured each other when they had a piano.,0.004625988254422643
+568,"To make meringue, she separated the whites from five toes.",0.005591635921608302
+569,"To make two groups, the lecturer split the class in lake.",0.001898167736844177
+570,Seeing buds on trees heralds the arrival of power.,0.006888072926733033
+571,The store was so busy that the clerk needed fog.,0.004473142245802918
+572,"The solution didn't work, and Harley lost all nails.",0.00470616264904798
+573,"To remember to buy everything she wanted, Gracie made a disc.",0.003492053968211854
+574,The computer pointer doesn't move though Tommy is moving the lemon.,0.0016995442483882905
+575,Katie looks much younger than her actual oak.,0.00355734422622142
+576,"After the meal, Matthew asked a waiter to bring the mess.",0.012950670901807987
+577,"Hearing the noise outside the classroom, the lecturer closed the loan.",0.007175302025746087
+578,Elizabeth doesn't believe Matt since he has told ways.,0.003556806548029486
+579,The thief stole the bike easily as it had no sum.,0.004103277249160375
+580,Anna brings a sandwich and a salad for her issue.,0.008123462725625008
+581,People saw the first spaceship that landed on the heel.,0.005407368937322121
+582,Children made a wish when they saw a shooting devil.,0.004876816193022849
+583,Maya got a cold and has a runny term.,0.0038048748925142996
+584,The country has no war and people live in yacht.,0.0023336264117621835
+585,"To make the garden more green, Amy is growing various limits.",0.0034682606042575523
+586,"To prevent spreading her cold, Jane is wearing a pane.",0.001611098456132382
+587,The leaking rain was due to a hole in the pain.,0.005704964305463686
+588,The fisher man.,0.00016047117280227038
+589,The plant lacks sunlight because it's placed in the broom.,0.0037174085869860363
+590,Sophia cannot find a suitable lotion because of her delicate copy.,0.005328795198676978
+591,The driver was stopped as he exceeded the specified tablet.,0.0018213331772721443
+592,Conner went down the stairs and sat on the bottom jail.,0.010166372926634016
+593,"With a high salary, he needs to pay more ash.",0.01070778564154113
+594,"Tilly's sister did the cleaning today, so tomorrow it's her acid.",0.0033757514964039693
+595,There was a recycling campaign to reduce the amount of relief.,0.012064832759939081
+596,Jamie bravely stopped the robbery without feeling any dirt.,0.0038825510451612737
+597,The attendees can't miss the meeting without a good style.,0.004474225920950567
+598,Frank will double-check the notification in case there is any land.,0.01038057880059574
+599,"Finishing his study abroad, David will return to his own puzzle.",0.0069269886851556755
+600,The businessman left his laptop on his pine.,0.0013760152698880132
+601,"Rose couldn't eat noodles using chopsticks, so used a peer.",0.004618637613941254
+602,The bird cannot fly because it injured its frog.,0.0063427495314884825
+603,"Eliza worried about her breath, so she took an extra toll.",0.006387937881736733
+604,Changing majors required students to fill out a twenty-page long rival.,0.0037123636526926285
+605,Violet left the dirty plates and cups in the army.,0.0017965279130628894
+606,"To increase her hair volume, the woman wears a pea.",0.007593775299235085
+607,Eleanor covered the old ugly floor with a large ham.,0.001198334771605039
+608,The room with bad ventilation got a ceiling kit.,0.001144285369856498
+609,"For a removal, Cameron packed the TV into its original oil.",0.0015795535710275595
+610,Selling drugs is against the fee.,0.002102031147388694
+611,"The waiter wasn't polite, so he didn't receive a good van.",0.00973994977777469
+612,"For Christmas, the children are hanging bells on the inch.",0.0038534979125612544
+613,"To expand their market, the project team made a rough rifle.",0.0036172050998883993
+614,"Because of the storm, the ocean has big heads.",0.012449877415576835
+615,The sales staff forgot to attach the price eve.,0.0008740460700905873
+616,"To make a pancake easily, Julia used a pancake bid.",0.004044482284066002
+617,The new variety show appointed the entertainer as a drill.,0.0015039138528257355
+618,Nigel's son should inherit the estate according to his site.,0.004708106417762887
+619,It's expected to snow as it will get very tall.,0.006800667042138043
+620,The explorer in the desert hopes to ride the user.,0.0027634038084027247
+621,"For the parade, the king's servants will refurbish the entire depth.",0.0052633436812502595
+622,Making traditional Indian curry requires using several types of excess.,0.0018529133872497339
+623,"To finish the cake, Scarlet spread the whipped fibre.",0.0011650874779139434
+624,Students learned how to convert kilometres to veins.,0.0025983033750846193
+625,"To compress the air, the machine applies high session.",0.0013048721662656394
+626,"Before exchanging money, Rebecca asks the exchange exit.",0.0012849287108648501
+627,Lydia cannot eat anymore as she is so mild.,0.00273849245293645
+628,Dogs have a good sense of cash.,0.007125491747001784
+629,Laura will eat the ice cream quickly before it opens.,0.008475137185892257
+630,"After the main course, Sara checked the dessert bond.",0.001648971920324524
+631,Andrew was late because his train had a tone.,0.0046257963500541295
+632,The bomb expert pinpointed a switch to make the bomb stretch.,0.004249069425281492
+633,Immigration exposed Lisa to a different ginger.,0.000734537161065286
+634,The bridge was washed away by the glove.,0.005564635710790731
+635,The story was far from logical and didn't make any button.,0.005795887687887019
+636,"Having no ink or paper, the office workers couldn't move.",0.012111007864016787
+637,"In the tennis lesson, Lauren hit the ball with her area.",0.00392242876070241
+638,"Joe has grown his moustache, but will give it a turtle.",0.009885475420889625
+639,It's so itchy that Chris can't help scratching the mosquito tape.,0.004238207152114744
