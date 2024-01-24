@@ -1,0 +1,641 @@
+item,sentence,condition
+1,The student is going to the library to borrow a book.,best
+2,"Living alone is too expensive, so the students will share a flat.",best
+3,"The family enjoyed the sunny day, but there will be rain.",best
+4,Jack studied medicine in a university and works as a doctor.,best
+5,"Amelia got a driving licence, and will buy her own car.",best
+6,"Oliver doesn't have a watch, so he doesn't know the time.",best
+7,Rachel will go to the cinema to watch a new film.,best
+8,Paul is trying to stand on one leg.,best
+9,"The gambler kept losing, so he doesn't have any money.",best
+10,Harry intends to propose to Emily and give her the ring.,best
+11,John nervously asked the attractive girl out on a date.,best
+12,"As a lifetime vegetarian, Olivia doesn't miss eating meat.",best
+13,"Dylan got lost today, so he will use a map.",best
+14,"The comedian was funny, despite a bad joke.",best
+15,Jacob found he misspelled the word.,best
+16,"Oscar opened the postbox, and found a letter.",best
+17,"After struggling with the question, Jessica got the answer.",best
+18,"At the airport, James checked in for his flight.",best
+19,The lottery gave Emily a car as a prize.,best
+20,"Sophie couldn't recall the recent event, and blamed her bad memory.",best
+21,"The shoes were small, so Lily asked for the largest size.",best
+22,"To view the D image, people wore special glasses.",best
+23,"At the football match, Bob scored a goal.",best
+24,Grace put too much dressing on her salad.,best
+25,Chloe couldn't afford the necklace because of its high price.,best
+26,The family went to the sea to catch some fish.,best
+27,"Noah missed the final bus, and needed to take a taxi.",best
+28,The workers reported the difficult problem to their boss.,best
+29,Freya had a serious car accident and is afraid of driving.,best
+30,The man was convicted for murder and is in prison.,best
+31,"Beth loved cooking, and has become a world famous chef.",best
+32,Kyle asked the dentist to pull out the painful tooth.,best
+33,"Having high blood pressure, George reduced his intake of salt.",best
+34,Children were excited to see the first snow this winter.,best
+35,"To see the new-born panda, Lucy will go to the zoo.",best
+36,The country girl was overwhelmed to see streets full of people.,best
+37,Daisy is nine months pregnant and will have her first baby.,best
+38,Students at the train station are rushing to buy a ticket.,best
+39,"Feeling stressed at his workplace, Max relaxed at home.",best
+40,"Isabella dyed her hair, but she doesn't like the colour.",best
+41,"For parking illegally, William was charged a fine.",best
+42,Jim will go swimming and get a suntan at the beach.,best
+43,The house is haunted by ghosts.,best
+44,The ju ice.,best
+45,"The restaurant is always busy, so Leo will book a table.",best
+46,The baby is hungry and needs to drink some milk.,best
+47,"Before sending the letter, Daniel licked a stamp.",best
+48,The waiter got a generous tip because of his good service.,best
+49,"For their mother's birthday, the children will hold a party.",best
+50,"Only one cake is left, so Lilly doesn't have a choice.",best
+51,The men are watching football and drinking beer in the pub.,best
+52,The plane crash was avoided by the experienced pilot.,best
+53,The bus driver charged Rosie a regular fare.,best
+54,Henry was seriously injured but the doctor saved his life.,best
+55,Joseph used a lighter to make a fire.,best
+56,The famous dancer performed on the stage.,best
+57,The girls are going to have cocktails and dance in a club.,best
+58,The supporters wished the team good luck.,best
+59,"The cricket player wants his own glove, ball and bat.",best
+60,Hannah bought a calendar and hung it on the wall.,best
+61,The man with the history of self-harm cut his wrist.,best
+62,Susan felt tears coming as she sliced the onion.,best
+63,The woman was hit by a truck when crossing the road.,best
+64,Tyler knows many cocktail recipes because he works in a bar.,best
+65,"Kate didn't like coffee, so she ordered a cup of tea.",best
+66,Sam plays guitar in a popular band.,best
+67,"As the trousers were loose, Tony tightened up his belt.",best
+68,Meg will go to the park to walk her dog.,best
+69,The terrorist shot and killed five people using a gun.,best
+70,The mole was digging a hole.,best
+71,"The horse went outside the course, and didn't win the race.",best
+72,"Emma loves a bargain, and everything she bought was on sale.",best
+73,The king's throne was taken by his first-born son.,best
+74,The camp leader taught children how to pitch a tent.,best
+75,He enjoys hiking in the woods because of the fresh air.,best
+76,All the colleagues have savings accounts at the same bank.,best
+77,Ben went to the gym to swim in the pool.,best
+78,Adam keeps different breeds of cows in his farm.,best
+79,"For relaxation, Matilda soaked in a hot bath.",best
+80,Lewis lost his memory because of the damage to his brain.,best
+81,"After shuffling, the croupier asked the guest to select one card.",best
+82,Nobody knows the time as this room has no clock.,best
+83,Ryan refused to invest to avoid taking a risk.,best
+84,The client immediately signed the contract because it was a good deal.,best
+85,"By closely examining a painting, one can see all the detail.",best
+86,"Toby used to walk to school, but now he takes a bus.",best
+87,"In the class, Bella whispered in her friend's ear.",best
+88,Two dogs injured each other when they had a fight.,best
+89,"To make meringue, she separated the whites from five eggs.",best
+90,"To make two groups, the lecturer split the class in half.",best
+91,Seeing buds on trees heralds the arrival of spring.,best
+92,The store was so busy that the clerk needed help.,best
+93,"The solution didn't work, and Harley lost all hope.",best
+94,"To remember to buy everything she wanted, Gracie made a list.",best
+95,The computer pointer doesn't move though Tommy is moving the mouse.,best
+96,Katie looks much younger than her actual age.,best
+97,"After the meal, Matthew asked a waiter to bring the bill.",best
+98,"Hearing the noise outside the classroom, the lecturer closed the door.",best
+99,Elizabeth doesn't believe Matt since he has told lies.,best
+100,The thief stole the bike easily as it had no lock.,best
+101,Anna brings a sandwich and a salad for her lunch.,best
+102,People saw the first spaceship that landed on the moon.,best
+103,Children made a wish when they saw a shooting star.,best
+104,Maya got a cold and has a runny nose.,best
+105,The country has no war and people live in peace.,best
+106,"To make the garden more green, Amy is growing various plants.",best
+107,"To prevent spreading her cold, Jane is wearing a mask.",best
+108,The leaking rain was due to a hole in the roof.,best
+109,The fisherman was trying to catch fish in a net.,best
+110,The plant lacks sunlight because it's placed in the shade.,best
+111,Sophia cannot find a suitable lotion because of her delicate skin.,best
+112,The driver was stopped as he exceeded the specified speed.,best
+113,Conner went down the stairs and sat on the bottom step.,best
+114,"With a high salary, he needs to pay more tax.",best
+115,"Tilly's sister did the cleaning today, so tomorrow it's her turn.",best
+116,There was a recycling campaign to reduce the amount of waste.,best
+117,Jamie bravely stopped the robbery without feeling any fear.,best
+118,The attendees can't miss the meeting without a good excuse.,best
+119,Frank will double-check the notification in case there is any change.,best
+120,"Finishing his study abroad, David will return to his own country.",best
+121,The businessman left his laptop on his desk.,best
+122,"Rose couldn't eat noodles using chopsticks, so used a fork.",best
+123,The bird cannot fly because it injured its wing.,best
+124,"Eliza worried about her breath, so she took an extra mint.",best
+125,Changing majors required students to fill out a twenty-page long form.,best
+126,Violet left the dirty plates and cups in the sink.,best
+127,"To increase her hair volume, the woman wears a wig.",best
+128,Eleanor covered the old ugly floor with a large rug.,best
+129,The room with bad ventilation got a ceiling fan.,best
+130,"For a removal, Cameron packed the TV into its original box.",best
+131,Selling drugs is against the law.,best
+132,"The waiter wasn't polite, so he didn't receive a good tip.",best
+133,"For Christmas, the children are hanging bells on the tree.",best
+134,"To expand their market, the project team made a rough plan.",best
+135,"Because of the storm, the ocean has big waves.",best
+136,The sales staff forgot to attach the price tag.,best
+137,"To make a pancake easily, Julia used a pancake mix.",best
+138,The new variety show appointed the entertainer as a host.,best
+139,Nigel's son should inherit the estate according to his will.,best
+140,It's expected to snow as it will get very cold.,best
+141,The explorer in the desert hopes to ride the camel.,best
+142,"For the parade, the king's servants will refurbish the entire castle.",best
+143,Making traditional Indian curry requires using several types of spice.,best
+144,"To finish the cake, Scarlet spread the whipped cream.",best
+145,Students learned how to convert kilometres to miles.,best
+146,"To compress the air, the machine applies high pressure.",best
+147,"Before exchanging money, Rebecca asks the exchange rate.",best
+148,Lydia cannot eat anymore as she is so full.,best
+149,Dogs have a good sense of smell.,best
+150,Laura will eat the ice cream quickly before it melts.,best
+151,"After the main course, Sara checked the dessert menu.",best
+152,Andrew was late because his train had a delay.,best
+153,The bomb expert pinpointed a switch to make the bomb explode.,best
+154,Immigration exposed Lisa to a different culture.,best
+155,The bridge was washed away by the flood.,best
+156,The story was far from logical and didn't make any sense.,best
+157,"Having no ink or paper, the office workers couldn't print.",best
+158,"In the tennis lesson, Lauren hit the ball with her racket.",best
+159,"Joe has grown his moustache, but will give it a shave.",best
+160,It's so itchy that Chris can't help scratching the mosquito bite.,best
+1,The student is going to the library to borrow a hook.,surface_related
+2,"Living alone is too expensive, so the students will share a flag.",surface_related
+3,"The family enjoyed the sunny day, but there will be pain.",surface_related
+4,Jack studied medicine in a university and works as a factor.,surface_related
+5,"Amelia got a driving licence, and will buy her own jar.",surface_related
+6,"Oliver doesn't have a watch, so he doesn't know the lime.",surface_related
+7,Rachel will go to the cinema to watch a new firm.,surface_related
+8,Paul is trying to stand on one lag.,surface_related
+9,"The gambler kept losing, so he doesn't have any honey.",surface_related
+10,Harry intends to propose to Emily and give her the wing.,surface_related
+11,John nervously asked the attractive girl out on a gate.,surface_related
+12,"As a lifetime vegetarian, Olivia doesn't miss eating mean.",surface_related
+13,"Dylan got lost today, so he will use a cap.",surface_related
+14,"The comedian was funny, despite a bad coke.",surface_related
+15,Jacob found he misspelled the lord.,surface_related
+16,"Oscar opened the postbox, and found a litter.",surface_related
+17,"After struggling with the question, Jessica got the dancer.",surface_related
+18,"At the airport, James checked in for his sight.",surface_related
+19,The lottery gave Emily a car as a price.,surface_related
+20,"Sophie couldn't recall the recent event, and blamed her bad melody.",surface_related
+21,"The shoes were small, so Lily asked for the largest sign.",surface_related
+22,"To view the D image, people wore special classes.",surface_related
+23,"At the football match, Bob scored a coal.",surface_related
+24,Grace put too much dressing on her ballad.,surface_related
+25,Chloe couldn't afford the necklace because of its high pride.,surface_related
+26,The family went to the sea to catch some wish.,surface_related
+27,"Noah missed the final bus, and needed to take a tax.",surface_related
+28,The workers reported the difficult problem to their bass.,surface_related
+29,Freya had a serious car accident and is afraid of thriving.,surface_related
+30,The man was convicted for murder and is in poison.,surface_related
+31,"Beth loved cooking, and has become a world famous shelf.",surface_related
+32,Kyle asked the dentist to pull out the painful booth.,surface_related
+33,"Having high blood pressure, George reduced his intake of malt.",surface_related
+34,Children were excited to see the first snow this printer.,surface_related
+35,"To see the new-born panda, Lucy will go to the loo.",surface_related
+36,The country girl was overwhelmed to see streets full of purple.,surface_related
+37,Daisy is nine months pregnant and will have her first bay.,surface_related
+38,Students at the train station are rushing to buy a thicket.,surface_related
+39,"Feeling stressed at his workplace, Max relaxed at dome.",surface_related
+40,"Isabella dyed her hair, but she doesn't like the cutter.",surface_related
+41,"For parking illegally, William was charged a line.",surface_related
+42,Jim will go swimming and get a suntan at the peach.,surface_related
+43,The house is haunted by boasts.,surface_related
+44,"The juice isn't cold enough, so Alice is adding some dice.",surface_related
+45,"The restaurant is always busy, so Leo will book a label.",surface_related
+46,The baby is hungry and needs to drink some silk.,surface_related
+47,"Before sending the letter, Daniel licked a stump.",surface_related
+48,The waiter got a generous tip because of his good surface.,surface_related
+49,"For their mother's birthday, the children will hold a pasty.",surface_related
+50,"Only one cake is left, so Lilly doesn't have a voice.",surface_related
+51,The men are watching football and drinking beer in the rub.,surface_related
+52,The plane crash was avoided by the experienced pallet.,surface_related
+53,The bus driver charged Rosie a regular care.,surface_related
+54,Henry was seriously injured but the doctor saved his knife.,surface_related
+55,Joseph used a lighter to make a hire.,surface_related
+56,The famous dancer performed on the state.,surface_related
+57,The girls are going to have cocktails and dance in a crab.,surface_related
+58,The supporters wished the team good duck.,surface_related
+59,"The cricket player wants his own glove, ball and rat.",surface_related
+60,Hannah bought a calendar and hung it on the mall.,surface_related
+61,The man with the history of self-harm cut his list.,surface_related
+62,Susan felt tears coming as she sliced the union.,surface_related
+63,The woman was hit by a truck when crossing the load.,surface_related
+64,Tyler knows many cocktail recipes because he works in a war.,surface_related
+65,"Kate didn't like coffee, so she ordered a cup of team.",surface_related
+66,Sam plays guitar in a popular sand.,surface_related
+67,"As the trousers were loose, Tony tightened up his beat.",surface_related
+68,Meg will go to the park to walk her fog.,surface_related
+69,The terrorist shot and killed five people using a gum.,surface_related
+70,The mole was digging a pole.,surface_related
+71,"The horse went outside the course, and didn't win the lace.",surface_related
+72,"Emma loves a bargain, and everything she bought was on safe.",surface_related
+73,The king's throne was taken by his first-born ton.,surface_related
+74,The camp leader taught children how to pitch a cent.,surface_related
+75,He enjoys hiking in the woods because of the fresh hair.,surface_related
+76,All the colleagues have savings accounts at the same back.,surface_related
+77,Ben went to the gym to swim in the tool.,surface_related
+78,Adam keeps different breeds of cows in his harm.,surface_related
+79,"For relaxation, Matilda soaked in a hot path.",surface_related
+80,Lewis lost his memory because of the damage to his grain.,surface_related
+81,"After shuffling, the croupier asked the guest to select one cart.",surface_related
+82,Nobody knows the time as this room has no clerk.,surface_related
+83,Ryan refused to invest to avoid taking a disc.,surface_related
+84,The client immediately signed the contract because it was a good meal.,surface_related
+85,"By closely examining a painting, one can see all the retail.",surface_related
+86,"Toby used to walk to school, but now he takes a bug.",surface_related
+87,"In the class, Bella whispered in her friend's rear.",surface_related
+88,Two dogs injured each other when they had a light.,surface_related
+89,"To make meringue, she separated the whites from five pegs.",surface_related
+90,"To make two groups, the lecturer split the class in calf.",surface_related
+91,Seeing buds on trees heralds the arrival of sprint.,surface_related
+92,The store was so busy that the clerk needed heap.,surface_related
+93,"The solution didn't work, and Harley lost all hose.",surface_related
+94,"To remember to buy everything she wanted, Gracie made a lift.",surface_related
+95,The computer pointer doesn't move though Tommy is moving the mouth.,surface_related
+96,Katie looks much younger than her actual ace.,surface_related
+97,"After the meal, Matthew asked a waiter to bring the pill.",surface_related
+98,"Hearing the noise outside the classroom, the lecturer closed the donor.",surface_related
+99,Elizabeth doesn't believe Matt since he has told pies.,surface_related
+100,The thief stole the bike easily as it had no look.,surface_related
+101,Anna brings a sandwich and a salad for her punch.,surface_related
+102,People saw the first spaceship that landed on the mood.,surface_related
+103,Children made a wish when they saw a shooting scar.,surface_related
+104,Maya got a cold and has a runny pose.,surface_related
+105,The country has no war and people live in peak.,surface_related
+106,"To make the garden more green, Amy is growing various planets.",surface_related
+107,"To prevent spreading her cold, Jane is wearing a task.",surface_related
+108,The leaking rain was due to a hole in the root.,surface_related
+109,The fisherman was trying to catch fish in a jet.,surface_related
+110,The plant lacks sunlight because it's placed in the shape.,surface_related
+111,Sophia cannot find a suitable lotion because of her delicate spin.,surface_related
+112,The driver was stopped as he exceeded the specified speech.,surface_related
+113,Conner went down the stairs and sat on the bottom stem.,surface_related
+114,"With a high salary, he needs to pay more wax.",surface_related
+115,"Tilly's sister did the cleaning today, so tomorrow it's her turf.",surface_related
+116,There was a recycling campaign to reduce the amount of paste.,surface_related
+117,Jamie bravely stopped the robbery without feeling any year.,surface_related
+118,The attendees can't miss the meeting without a good excise.,surface_related
+119,Frank will double-check the notification in case there is any range.,surface_related
+120,"Finishing his study abroad, David will return to his own counter.",surface_related
+121,The businessman left his laptop on his dusk.,surface_related
+122,"Rose couldn't eat noodles using chopsticks, so used a fort.",surface_related
+123,The bird cannot fly because it injured its ring.,surface_related
+124,"Eliza worried about her breath, so she took an extra hint.",surface_related
+125,Changing majors required students to fill out a twenty-page long norm.,surface_related
+126,Violet left the dirty plates and cups in the link.,surface_related
+127,"To increase her hair volume, the woman wears a pig.",surface_related
+128,Eleanor covered the old ugly floor with a large rum.,surface_related
+129,The room with bad ventilation got a ceiling fat.,surface_related
+130,"For a removal, Cameron packed the TV into its original boa.",surface_related
+131,Selling drugs is against the saw.,surface_related
+132,"The waiter wasn't polite, so he didn't receive a good lip.",surface_related
+133,"For Christmas, the children are hanging bells on the treat.",surface_related
+134,"To expand their market, the project team made a rough plank.",surface_related
+135,"Because of the storm, the ocean has big caves.",surface_related
+136,The sales staff forgot to attach the price tug.,surface_related
+137,"To make a pancake easily, Julia used a pancake fix.",surface_related
+138,The new variety show appointed the entertainer as a post.,surface_related
+139,Nigel's son should inherit the estate according to his pill.,surface_related
+140,It's expected to snow as it will get very old.,surface_related
+141,The explorer in the desert hopes to ride the caramel.,surface_related
+142,"For the parade, the king's servants will refurbish the entire cattle.",surface_related
+143,Making traditional Indian curry requires using several types of space.,surface_related
+144,"To finish the cake, Scarlet spread the whipped dream.",surface_related
+145,Students learned how to convert kilometres to piles.,surface_related
+146,"To compress the air, the machine applies high pleasure.",surface_related
+147,"Before exchanging money, Rebecca asks the exchange fate.",surface_related
+148,Lydia cannot eat anymore as she is so dull.,surface_related
+149,Dogs have a good sense of shell.,surface_related
+150,Laura will eat the ice cream quickly before it meets.,surface_related
+151,"After the main course, Sara checked the dessert venue.",surface_related
+152,Andrew was late because his train had a decay.,surface_related
+153,The bomb expert pinpointed a switch to make the bomb explore.,surface_related
+154,Immigration exposed Lisa to a different vulture.,surface_related
+155,The bridge was washed away by the blood.,surface_related
+156,The story was far from logical and didn't make any fence.,surface_related
+157,"Having no ink or paper, the office workers couldn't point.",surface_related
+158,"In the tennis lesson, Lauren hit the ball with her rocket.",surface_related
+159,"Joe has grown his moustache, but will give it a share.",surface_related
+160,It's so itchy that Chris can't help scratching the mosquito bike.,surface_related
+1,The student is going to the library to borrow a page.,semantic_related
+2,"Living alone is too expensive, so the students will share a wall.",semantic_related
+3,"The family enjoyed the sunny day, but there will be sky.",semantic_related
+4,Jack studied medicine in a university and works as a patient.,semantic_related
+5,"Amelia got a driving licence, and will buy her own tyre.",semantic_related
+6,"Oliver doesn't have a watch, so he doesn't know the rest.",semantic_related
+7,Rachel will go to the cinema to watch a new camera.,semantic_related
+8,Paul is trying to stand on one hip.,semantic_related
+9,"The gambler kept losing, so he doesn't have any wallet.",semantic_related
+10,Harry intends to propose to Emily and give her the finger.,semantic_related
+11,John nervously asked the attractive girl out on a cancel.,semantic_related
+12,"As a lifetime vegetarian, Olivia doesn't miss eating flour.",semantic_related
+13,"Dylan got lost today, so he will use a globe.",semantic_related
+14,"The comedian was funny, despite a bad laugh.",semantic_related
+15,Jacob found he misspelled the usage.,semantic_related
+16,"Oscar opened the postbox, and found a heading.",semantic_related
+17,"After struggling with the question, Jessica got the inquiry.",semantic_related
+18,"At the airport, James checked in for his rocket.",semantic_related
+19,The lottery gave Emily a car as a medal.,semantic_related
+20,"Sophie couldn't recall the recent event, and blamed her bad storage.",semantic_related
+21,"The shoes were small, so Lily asked for the largest height.",semantic_related
+22,"To view the D image, people wore special eyes.",semantic_related
+23,"At the football match, Bob scored a team.",semantic_related
+24,Grace put too much dressing on her refrigerator.,semantic_related
+25,Chloe couldn't afford the necklace because of its high seller.,semantic_related
+26,The family went to the sea to catch some pond.,semantic_related
+27,"Noah missed the final bus, and needed to take a fare.",semantic_related
+28,The workers reported the difficult problem to their job.,semantic_related
+29,Freya had a serious car accident and is afraid of licences.,semantic_related
+30,The man was convicted for murder and is in crime.,semantic_related
+31,"Beth loved cooking, and has become a world famous buffet.",semantic_related
+32,Kyle asked the dentist to pull out the painful brush.,semantic_related
+33,"Having high blood pressure, George reduced his intake of sea.",semantic_related
+34,Children were excited to see the first snow this summer.,semantic_related
+35,"To see the new-born panda, Lucy will go to the lion.",semantic_related
+36,The country girl was overwhelmed to see streets full of customs.,semantic_related
+37,Daisy is nine months pregnant and will have her first nappy.,semantic_related
+38,Students at the train station are rushing to buy a platform.,semantic_related
+39,"Feeling stressed at his workplace, Max relaxed at laundry.",semantic_related
+40,"Isabella dyed her hair, but she doesn't like the paint.",semantic_related
+41,"For parking illegally, William was charged a court.",semantic_related
+42,Jim will go swimming and get a suntan at the coconut.,semantic_related
+43,The house is haunted by halloween.,semantic_related
+44,"The juice isn't cold enough, so Alice is adding some cube.",semantic_related
+45,"The restaurant is always busy, so Leo will book a chair.",semantic_related
+46,The baby is hungry and needs to drink some cow.,semantic_related
+47,"Before sending the letter, Daniel licked a payment.",semantic_related
+48,The waiter got a generous tip because of his good complaints.,semantic_related
+49,"For their mother's birthday, the children will hold a guest.",semantic_related
+50,"Only one cake is left, so Lilly doesn't have a future.",semantic_related
+51,The men are watching football and drinking beer in the owner.,semantic_related
+52,The plane crash was avoided by the experienced flight.,semantic_related
+53,The bus driver charged Rosie a regular cash.,semantic_related
+54,Henry was seriously injured but the doctor saved his death.,semantic_related
+55,Joseph used a lighter to make a chimney.,semantic_related
+56,The famous dancer performed on the actor.,semantic_related
+57,The girls are going to have cocktails and dance in a sport.,semantic_related
+58,The supporters wished the team good yell.,semantic_related
+59,"The cricket player wants his own glove, ball and hit.",semantic_related
+60,Hannah bought a calendar and hung it on the floor.,semantic_related
+61,The man with the history of self-harm cut his grip.,semantic_related
+62,Susan felt tears coming as she sliced the flavour.,semantic_related
+63,The woman was hit by a truck when crossing the cyclist.,semantic_related
+64,Tyler knows many cocktail recipes because he works in a pint.,semantic_related
+65,"Kate didn't like coffee, so she ordered a cup of mug.",semantic_related
+66,Sam plays guitar in a popular music.,semantic_related
+67,"As the trousers were loose, Tony tightened up his helmet.",semantic_related
+68,Meg will go to the park to walk her tail.,semantic_related
+69,The terrorist shot and killed five people using a grip.,semantic_related
+70,The mole was digging a drill.,semantic_related
+71,"The horse went outside the course, and didn't win the bike.",semantic_related
+72,"Emma loves a bargain, and everything she bought was on refunds.",semantic_related
+73,The king's throne was taken by his first-born father.,semantic_related
+74,The camp leader taught children how to pitch a cave.,semantic_related
+75,He enjoys hiking in the woods because of the fresh dust.,semantic_related
+76,All the colleagues have savings accounts at the same receipt.,semantic_related
+77,Ben went to the gym to swim in the sink.,semantic_related
+78,Adam keeps different breeds of cows in his yields.,semantic_related
+79,"For relaxation, Matilda soaked in a hot soap.",semantic_related
+80,Lewis lost his memory because of the damage to his surgeries.,semantic_related
+81,"After shuffling, the croupier asked the guest to select one swap.",semantic_related
+82,Nobody knows the time as this room has no alarm.,semantic_related
+83,Ryan refused to invest to avoid taking a benefit.,semantic_related
+84,The client immediately signed the contract because it was a good trust.,semantic_related
+85,"By closely examining a painting, one can see all the paragraphs.",semantic_related
+86,"Toby used to walk to school, but now he takes a seat.",semantic_related
+87,"In the class, Bella whispered in her friend's sound.",semantic_related
+88,Two dogs injured each other when they had a troop.,semantic_related
+89,"To make meringue, she separated the whites from five nests.",semantic_related
+90,"To make two groups, the lecturer split the class in dozen.",semantic_related
+91,Seeing buds on trees heralds the arrival of winter.,semantic_related
+92,The store was so busy that the clerk needed lifeguards.,semantic_related
+93,"The solution didn't work, and Harley lost all regret.",semantic_related
+94,"To remember to buy everything she wanted, Gracie made a volume.",semantic_related
+95,The computer pointer doesn't move though Tommy is moving the click.,semantic_related
+96,Katie looks much younger than her actual birth.,semantic_related
+97,"After the meal, Matthew asked a waiter to bring the tip.",semantic_related
+98,"Hearing the noise outside the classroom, the lecturer closed the knob.",semantic_related
+99,Elizabeth doesn't believe Matt since he has told truth.,semantic_related
+100,The thief stole the bike easily as it had no door.,semantic_related
+101,Anna brings a sandwich and a salad for her kitchen.,semantic_related
+102,People saw the first spaceship that landed on the orbit.,semantic_related
+103,Children made a wish when they saw a shooting galaxy.,semantic_related
+104,Maya got a cold and has a runny chin.,semantic_related
+105,The country has no war and people live in treaty.,semantic_related
+106,"To make the garden more green, Amy is growing various sunlight.",semantic_related
+107,"To prevent spreading her cold, Jane is wearing a face.",semantic_related
+108,The leaking rain was due to a hole in the floor.,semantic_related
+109,The fisherman was trying to catch fish in a gross.,semantic_related
+110,The plant lacks sunlight because it's placed in the grass.,semantic_related
+111,Sophia cannot find a suitable lotion because of her delicate sweat.,semantic_related
+112,The driver was stopped as he exceeded the specified jet.,semantic_related
+113,Conner went down the stairs and sat on the bottom process.,semantic_related
+114,"With a high salary, he needs to pay more income.",semantic_related
+115,"Tilly's sister did the cleaning today, so tomorrow it's her gear.",semantic_related
+116,There was a recycling campaign to reduce the amount of toilets.,semantic_related
+117,Jamie bravely stopped the robbery without feeling any escape.,semantic_related
+118,The attendees can't miss the meeting without a good doubt.,semantic_related
+119,Frank will double-check the notification in case there is any same.,semantic_related
+120,"Finishing his study abroad, David will return to his own import.",semantic_related
+121,The businessman left his laptop on his receptionist.,semantic_related
+122,"Rose couldn't eat noodles using chopsticks, so used a cup.",semantic_related
+123,The bird cannot fly because it injured its glide.,semantic_related
+124,"Eliza worried about her breath, so she took an extra herb.",semantic_related
+125,Changing majors required students to fill out a twenty-page long example.,semantic_related
+126,Violet left the dirty plates and cups in the towel.,semantic_related
+127,"To increase her hair volume, the woman wears a comb.",semantic_related
+128,Eleanor covered the old ugly floor with a large tie.,semantic_related
+129,The room with bad ventilation got a ceiling air.,semantic_related
+130,"For a removal, Cameron packed the TV into its original lid.",semantic_related
+131,Selling drugs is against the jury.,semantic_related
+132,"The waiter wasn't polite, so he didn't receive a good thumb.",semantic_related
+133,"For Christmas, the children are hanging bells on the squirrel.",semantic_related
+134,"To expand their market, the project team made a rough future.",semantic_related
+135,"Because of the storm, the ocean has big surfers.",semantic_related
+136,The sales staff forgot to attach the price name.,semantic_related
+137,"To make a pancake easily, Julia used a pancake digestion.",semantic_related
+138,The new variety show appointed the entertainer as a meeting.,semantic_related
+139,Nigel's son should inherit the estate according to his fact.,semantic_related
+140,It's expected to snow as it will get very hot.,semantic_related
+141,The explorer in the desert hopes to ride the oasis.,semantic_related
+142,"For the parade, the king's servants will refurbish the entire lords.",semantic_related
+143,Making traditional Indian curry requires using several types of orient.,semantic_related
+144,"To finish the cake, Scarlet spread the whipped pizzas.",semantic_related
+145,Students learned how to convert kilometres to riders.,semantic_related
+146,"To compress the air, the machine applies high relief.",semantic_related
+147,"Before exchanging money, Rebecca asks the exchange pace.",semantic_related
+148,Lydia cannot eat anymore as she is so half.,semantic_related
+149,Dogs have a good sense of nose.,semantic_related
+150,Laura will eat the ice cream quickly before it boils.,semantic_related
+151,"After the main course, Sara checked the dessert chef.",semantic_related
+152,Andrew was late because his train had a time.,semantic_related
+153,The bomb expert pinpointed a switch to make the bomb pour.,semantic_related
+154,Immigration exposed Lisa to a different sociology.,semantic_related
+155,The bridge was washed away by the soil.,semantic_related
+156,The story was far from logical and didn't make any taste.,semantic_related
+157,"Having no ink or paper, the office workers couldn't erase.",semantic_related
+158,"In the tennis lesson, Lauren hit the ball with her game.",semantic_related
+159,"Joe has grown his moustache, but will give it a hair.",semantic_related
+160,It's so itchy that Chris can't help scratching the mosquito chew.,semantic_related
+1,The student is going to the library to borrow a sofa.,unrelated
+2,"Living alone is too expensive, so the students will share a bell.",unrelated
+3,"The family enjoyed the sunny day, but there will be loss.",unrelated
+4,Jack studied medicine in a university and works as a tenant.,unrelated
+5,"Amelia got a driving licence, and will buy her own rat.",unrelated
+6,"Oliver doesn't have a watch, so he doesn't know the bean.",unrelated
+7,Rachel will go to the cinema to watch a new bird.,unrelated
+8,Paul is trying to stand on one kid.,unrelated
+9,"The gambler kept losing, so he doesn't have any candle.",unrelated
+10,Harry intends to propose to Emily and give her the memo.,unrelated
+11,John nervously asked the attractive girl out on a pin.,unrelated
+12,"As a lifetime vegetarian, Olivia doesn't miss eating soil.",unrelated
+13,"Dylan got lost today, so he will use a job.",unrelated
+14,"The comedian was funny, despite a bad beef.",unrelated
+15,Jacob found he misspelled the oven.,unrelated
+16,"Oscar opened the postbox, and found a birth.",unrelated
+17,"After struggling with the question, Jessica got the pension.",unrelated
+18,"At the airport, James checked in for his machine.",unrelated
+19,The lottery gave Emily a car as a child.,unrelated
+20,"Sophie couldn't recall the recent event, and blamed her bad eraser.",unrelated
+21,"The shoes were small, so Lily asked for the largest flip.",unrelated
+22,"To view the D image, people wore special markets.",unrelated
+23,"At the football match, Bob scored a bear.",unrelated
+24,Grace put too much dressing on her movie.,unrelated
+25,Chloe couldn't afford the necklace because of its high radio.,unrelated
+26,The family went to the sea to catch some echo.,unrelated
+27,"Noah missed the final bus, and needed to take a seed.",unrelated
+28,The workers re port.,unrelated
+29,Freya had a serious car accident and is afraid of finding.,unrelated
+30,The man was convicted for murder and is in image.,unrelated
+31,"Beth loved cooking, and has become a world famous aunt.",unrelated
+32,Kyle asked the dentist to pull out the painful grade.,unrelated
+33,"Having high blood pressure, George reduced his intake of bond.",unrelated
+34,Children were excited to see the first snow this effect.,unrelated
+35,"To see the new-born panda, Lucy will go to the end.",unrelated
+36,The country girl was overwhelmed to see streets full of length.,unrelated
+37,Daisy is nine months pregnant and will have her first agent.,unrelated
+38,Students at the train station are rushing to buy a major.,unrelated
+39,"Feeling stressed at his workplace, Max relaxed at beer.",unrelated
+40,"Isabella dyed her hair, but she doesn't like the grape.",unrelated
+41,"For parking illegally, William was charged a rest.",unrelated
+42,Jim will go swimming and get a suntan at the drama.,unrelated
+43,The house is haunted by eagles.,unrelated
+44,"The juice isn't cold enough, so Alice is adding some wine.",unrelated
+45,"The restaurant is always busy, so Leo will book a field.",unrelated
+46,The baby is hungry and needs to drink some debt.,unrelated
+47,"Before sending the letter, Daniel licked a juice.",unrelated
+48,The waiter got a generous tip because of his good million.,unrelated
+49,"For their mother's birthday, the children will hold a scene.",unrelated
+50,"Only one cake is left, so Lilly doesn't have a minute.",unrelated
+51,The men are watching football and drinking beer in the let.,unrelated
+52,The plane crash was avoided by the experienced mail.,unrelated
+53,The bus driver charged Rosie a regular twin.,unrelated
+54,Henry was seriously injured but the doctor saved his corn.,unrelated
+55,Joseph used a lighter to make a statue.,unrelated
+56,The famous dancer performed on the cloud.,unrelated
+57,The girls are going to have cocktails and dance in a mist.,unrelated
+58,The supporters wished the team good view.,unrelated
+59,"The cricket player wants his own glove, ball and sneeze.",unrelated
+60,Hannah bought a calendar and hung it on the fruit.,unrelated
+61,The man with the history of self-harm cut his sky.,unrelated
+62,Susan felt tears coming as she sliced the error.,unrelated
+63,The woman was hit by a truck when crossing the math.,unrelated
+64,Tyler knows many cocktail recipes because he works in a joy.,unrelated
+65,"Kate didn't like coffee, so she ordered a cup of myth.",unrelated
+66,Sam plays guitar in a popular hero.,unrelated
+67,"As the trousers were loose, Tony tightened up his tube.",unrelated
+68,Meg will go to the park to walk her tyre.,unrelated
+69,The terrorist shot and killed five people using a rib.,unrelated
+70,The mole was digging a mass.,unrelated
+71,"The horse went outside the course, and didn't win the snap.",unrelated
+72,"Emma loves a bargain, and everything she bought was on noon.",unrelated
+73,The king's throne was taken by his first-born fox.,unrelated
+74,The camp leader taught children how to pitch a flaw.,unrelated
+75,He enjoys hiking in the woods because of the fresh ray.,unrelated
+76,All the colleagues have savings accounts at the same lake.,unrelated
+77,Ben went to the gym to swim in the lump.,unrelated
+78,Adam keeps different breeds of cows in his navy.,unrelated
+79,"For relaxation, Matilda soaked in a hot loaf.",unrelated
+80,Lewis lost his memory because of the damage to his nation.,unrelated
+81,"After shuffling, the croupier asked the guest to select one roll.",unrelated
+82,Nobody knows the time as this room has no scarf.,unrelated
+83,Ryan refused to invest to avoid taking a door.,unrelated
+84,The client immediately signed the contract because it was a good flower.,unrelated
+85,"By closely examining a painting, one can see all the syrup.",unrelated
+86,Toby use.,unrelated
+87,"In the class, Bella whispered in her friend's kin.",unrelated
+88,Two dogs injured each other when they had a piano.,unrelated
+89,"To make meringue, she separated the whites from five toes.",unrelated
+90,"To make two groups, the lecturer split the class in lake.",unrelated
+91,Seeing buds on trees heralds the arrival of power.,unrelated
+92,The store was so busy that the clerk needed fog.,unrelated
+93,"The solution didn't work, and Harley lost all nails.",unrelated
+94,"To remember to buy everything she wanted, Gracie made a disc.",unrelated
+95,The computer pointer doesn't move though Tommy is moving the lemon.,unrelated
+96,Katie looks much younger than her actual oak.,unrelated
+97,"After the meal, Matthew asked a waiter to bring the mess.",unrelated
+98,"Hearing the noise outside the classroom, the lecturer closed the loan.",unrelated
+99,Elizabeth doesn't believe Matt since he has told ways.,unrelated
+100,The thief stole the bike easily as it had no sum.,unrelated
+101,Anna brings a sandwich and a salad for her issue.,unrelated
+102,People saw the first spaceship that landed on the heel.,unrelated
+103,Children made a wish when they saw a shooting devil.,unrelated
+104,Maya got a cold and has a runny term.,unrelated
+105,The country has no war and people live in yacht.,unrelated
+106,"To make the garden more green, Amy is growing various limits.",unrelated
+107,"To prevent spreading her cold, Jane is wearing a pane.",unrelated
+108,The leaking rain was due to a hole in the pain.,unrelated
+109,The fisher man.,unrelated
+110,The plant lacks sunlight because it's placed in the broom.,unrelated
+111,Sophia cannot find a suitable lotion because of her delicate copy.,unrelated
+112,The driver was stopped as he exceeded the specified tablet.,unrelated
+113,Conner went down the stairs and sat on the bottom jail.,unrelated
+114,"With a high salary, he needs to pay more ash.",unrelated
+115,"Tilly's sister did the cleaning today, so tomorrow it's her acid.",unrelated
+116,There was a recycling campaign to reduce the amount of relief.,unrelated
+117,Jamie bravely stopped the robbery without feeling any dirt.,unrelated
+118,The attendees can't miss the meeting without a good style.,unrelated
+119,Frank will double-check the notification in case there is any land.,unrelated
+120,"Finishing his study abroad, David will return to his own puzzle.",unrelated
+121,The businessman left his laptop on his pine.,unrelated
+122,"Rose couldn't eat noodles using chopsticks, so used a peer.",unrelated
+123,The bird cannot fly because it injured its frog.,unrelated
+124,"Eliza worried about her breath, so she took an extra toll.",unrelated
+125,Changing majors required students to fill out a twenty-page long rival.,unrelated
+126,Violet left the dirty plates and cups in the army.,unrelated
+127,"To increase her hair volume, the woman wears a pea.",unrelated
+128,Eleanor covered the old ugly floor with a large ham.,unrelated
+129,The room with bad ventilation got a ceiling kit.,unrelated
+130,"For a removal, Cameron packed the TV into its original oil.",unrelated
+131,Selling drugs is against the fee.,unrelated
+132,"The waiter wasn't polite, so he didn't receive a good van.",unrelated
+133,"For Christmas, the children are hanging bells on the inch.",unrelated
+134,"To expand their market, the project team made a rough rifle.",unrelated
+135,"Because of the storm, the ocean has big heads.",unrelated
+136,The sales staff forgot to attach the price eve.,unrelated
+137,"To make a pancake easily, Julia used a pancake bid.",unrelated
+138,The new variety show appointed the entertainer as a drill.,unrelated
+139,Nigel's son should inherit the estate according to his site.,unrelated
+140,It's expected to snow as it will get very tall.,unrelated
+141,The explorer in the desert hopes to ride the user.,unrelated
+142,"For the parade, the king's servants will refurbish the entire depth.",unrelated
+143,Making traditional Indian curry requires using several types of excess.,unrelated
+144,"To finish the cake, Scarlet spread the whipped fibre.",unrelated
+145,Students learned how to convert kilometres to veins.,unrelated
+146,"To compress the air, the machine applies high session.",unrelated
+147,"Before exchanging money, Rebecca asks the exchange exit.",unrelated
+148,Lydia cannot eat anymore as she is so mild.,unrelated
+149,Dogs have a good sense of cash.,unrelated
+150,Laura will eat the ice cream quickly before it opens.,unrelated
+151,"After the main course, Sara checked the dessert bond.",unrelated
+152,Andrew was late because his train had a tone.,unrelated
+153,The bomb expert pinpointed a switch to make the bomb stretch.,unrelated
+154,Immigration exposed Lisa to a different ginger.,unrelated
+155,The bridge was washed away by the glove.,unrelated
+156,The story was far from logical and didn't make any button.,unrelated
+157,"Having no ink or paper, the office workers couldn't move.",unrelated
+158,"In the tennis lesson, Lauren hit the ball with her area.",unrelated
+159,"Joe has grown his moustache, but will give it a turtle.",unrelated
+160,It's so itchy that Chris can't help scratching the mosquito tape.,unrelated
